@@ -1,5 +1,5 @@
-<h1 align="center">Hello There! This is Mudit Mehta</h1>
-<h3 align="center">I'm a Computer Science major with a driving motivation to learn more about the world of Artificial Intelligence and Machine Learning, having a solid foundation in Python and other backend programming languages.</h3>
+<h1>Hello There! This is Mudit Mehta</h1>
+<h3>I'm a Computer Science major with a driving motivation to learn more about the world of Artificial Intelligence and Machine Learning, having a solid foundation in Python and other backend programming languages.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -12,4 +12,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muditmehta07&show_icons=true&locale=en&layout=compact" alt="muditmehta07" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muditmehta07&show_icons=true&locale=en" alt="muditmehta07" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=muditmehta07&show_icons=true&locale=en" alt="muditmehta07" /></p>
