@@ -22,11 +22,6 @@
  ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=muditmehta07&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=muditmehta07&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muditmehta07&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=muditmehta07&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
