@@ -1,9 +1,6 @@
 # About
 **I'm a Computer Science major with a driving motivation to learn more about the world of Artificial Intelligence and Machine Learning, having a solid foundation in Python and other backend programming languages.**
 
-# Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muditmehta07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muditmehta07)
-
 # Skills
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
