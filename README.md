@@ -1,5 +1,5 @@
 # About
-**I'm a Computer Science major with a driving motivation to learn more about the world of Artificial Intelligence and Machine Learning, having a solid foundation in Python and other backend programming languages.**
+I am a third-year Computer Science Engineering major with a minor in Bioinformatics, driven by a strong motivation to learn more about Artificial Intelligence and Machine Learning. I have a solid foundation in Python, Golang, R and other programming languages, along with advanced technologies like PyTorch, LangChain, and Microsoft Azure.
 
 # Skills
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
