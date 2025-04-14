@@ -1,5 +1,5 @@
 # About
-I am a third-year Computer Science Engineering major with a minor in Bioinformatics, driven by a strong motivation to learn more about Artificial Intelligence and Machine Learning. I have a solid foundation in Python, Golang, R and other programming languages, along with advanced technologies like PyTorch, LangChain, and Microsoft Azure.
+Blah blah blah. Yap yap yap. I love coding.
 
 # Skills
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
