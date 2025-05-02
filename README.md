@@ -18,4 +18,4 @@ I really wanna write a detailed about section, but the time and space complexity
 2. [Discord Bots I Sold for 1-2K INR each in 2020](https://github.com/muditmehta07/Discord-Bots)
 3. [Flappy Bird Game](https://github.com/muditmehta07/Flappy-Bird)
 4. [Command Line Notes App](https://github.com/muditmehta07/Noteline)
-5. [My Nueralintents Fork](https://github.com/muditmehta07/neuralintents)
+5. [My Neuralintents Fork](https://github.com/muditmehta07/neuralintents)
