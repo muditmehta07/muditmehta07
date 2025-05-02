@@ -1,5 +1,5 @@
 # About
-Blah blah blah. Yap yap yap. I love coding.
+I'd really wanna write a detailed about section, but the time and space complexity is too much.
 
 # Skills
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
