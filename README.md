@@ -19,5 +19,5 @@ I really wanna write a detailed about section, but the time and space complexity
 3. [Flappy Bird Game](https://github.com/muditmehta07/Flappy-Bird)
 4. [Command Line Notes App](https://github.com/muditmehta07/Noteline)
 
-# Contributions
+# Open-Source Contributions
 N/A
