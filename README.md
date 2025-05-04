@@ -14,7 +14,7 @@ I really wanna write a detailed about section, but the time and space complexity
 5. [Pirated Movies Website](https://github.com/muditmehta07/Netflicks)
 
 # Repositories
-1. [Arch Linux Guide (Actively Updating)](https://github.com/muditmehta07/i-use-arch-btw)
+1. [Arch Linux Guide](https://github.com/muditmehta07/i-use-arch-btw)
 2. [Discord Bots that I Freelanced](https://github.com/muditmehta07/Discord-Bots)
 3. [Flappy Bird Game](https://github.com/muditmehta07/Flappy-Bird)
 4. [Command Line Notes App](https://github.com/muditmehta07/Noteline)
