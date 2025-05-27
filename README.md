@@ -20,4 +20,4 @@ I really wanna write a detailed about section, but the time and space complexity
 4. [Command Line Notes App](https://github.com/muditmehta07/Noteline)
 
 # Open-Source Contributions
-N/A
+1. [Universal Wayland Session Manager](https://github.com/Vladimir-csp/uwsm)
