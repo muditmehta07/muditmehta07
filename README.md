@@ -7,7 +7,7 @@ I really wanna write a detailed about section, but the time and space complexity
  ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)
  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-# Making My Own...
+# Repositories
 1. [Portfolio Website](https://github.com/muditmehta07/Portfolio-Website)
 2. [Verified Discord Bot](https://github.com/muditmehta07/Michelle-Archived)
 3. [Flappy Bird](https://github.com/muditmehta07/Flappy-Bird)
