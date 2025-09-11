@@ -9,8 +9,9 @@ I really wanna write a detailed about section, but the time and space complexity
 
 # Repositories
 1. [Portfolio Website](https://mudits-portfolio.onrender.com/)
-2. [Verified Discord Bot](https://github.com/muditmehta07/Michelle-Archived)
+2. [Leetcode](https://github.com/muditmehta07/Leetcode)
 3. [Flappy Bird](https://github.com/muditmehta07/Flappy-Bird)
+4. [Verified Discord Bot](https://github.com/muditmehta07/Michelle-Archived)
 
 # Open-Source Contributions
 1. [Universal Wayland Session Manager](https://github.com/Vladimir-csp/uwsm)
