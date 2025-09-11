@@ -8,7 +8,7 @@ I really wanna write a detailed about section, but the time and space complexity
  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 # Repositories
-1. [Portfolio Website](https://github.com/muditmehta07/Portfolio-Website)
+1. [Portfolio Website](https://mudits-portfolio.onrender.com/)
 2. [Verified Discord Bot](https://github.com/muditmehta07/Michelle-Archived)
 3. [Flappy Bird](https://github.com/muditmehta07/Flappy-Bird)
 
