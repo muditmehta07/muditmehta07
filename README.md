@@ -9,15 +9,7 @@ I really wanna write a detailed about section, but the time and space complexity
 
 # Making My Own...
 1. [Portfolio Website](https://github.com/muditmehta07/Portfolio-Website)
-2. [Programming Language](https://github.com/muditmehta07/Unicorn)
 4. [Verified Discord Bot](https://github.com/muditmehta07/Michelle-Archived)
-5. [Pirated Movies Website](https://github.com/muditmehta07/Netflicks)
-
-# Repositories
-1. [Arch Linux Guide](https://github.com/muditmehta07/i-use-arch-btw)
-2. [Discord Bots that I Freelanced](https://github.com/muditmehta07/Discord-Bots)
-3. [Flappy Bird Game](https://github.com/muditmehta07/Flappy-Bird)
-4. [Command Line Notes App](https://github.com/muditmehta07/Noteline)
 
 # Open-Source Contributions
 1. [Universal Wayland Session Manager](https://github.com/Vladimir-csp/uwsm)
