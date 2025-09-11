@@ -9,7 +9,8 @@ I really wanna write a detailed about section, but the time and space complexity
 
 # Making My Own...
 1. [Portfolio Website](https://github.com/muditmehta07/Portfolio-Website)
-4. [Verified Discord Bot](https://github.com/muditmehta07/Michelle-Archived)
+2. [Verified Discord Bot](https://github.com/muditmehta07/Michelle-Archived)
+3. [Flappy Bird](https://github.com/muditmehta07/Flappy-Bird)
 
 # Open-Source Contributions
 1. [Universal Wayland Session Manager](https://github.com/Vladimir-csp/uwsm)
