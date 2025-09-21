@@ -10,8 +10,9 @@ Maybe this is the real punk rock.
 # Repositories
 1. [Portfolio Website](https://mudits-portfolio.onrender.com/)
 2. [Leetcode Solutions](https://github.com/muditmehta07/Leetcode)
-3. [Flappy Bird](https://github.com/muditmehta07/Flappy-Bird)
-4. [Verified Discord Bot](https://github.com/muditmehta07/Michelle-Archived)
+3. [Python Programs](https://github.com/muditmehta07/Python-Programs)
+5. [Flappy Bird](https://github.com/muditmehta07/Flappy-Bird)
+6. [Verified Discord Bot](https://github.com/muditmehta07/Michelle-Archived)
 
 # Open-Source Contributions
 1. [Universal Wayland Session Manager](https://github.com/Vladimir-csp/uwsm)
