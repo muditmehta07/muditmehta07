@@ -11,9 +11,9 @@ I'm a final-year computer science engineering student, inclined towards machine 
 
 
 ## Socials
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/muditmehta07)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muditmehta07)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/user/vo1g5gy0xd2n4pkww3p7n4abm)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muditmehta07)
+[![Instagram](https://img.shields.io/badge/Instagram-FF0069?logo=instagram&logoColor=fff&style=plastic)](https://instagram.com/muditmehta07)
+[![Spotify](https://img.shields.io/badge/Instagram-FF0069?logo=instagram&logoColor=fff&style=flat)](https://open.spotify.com/user/vo1g5gy0xd2n4pkww3p7n4abm)
 
 
 ## Skills
