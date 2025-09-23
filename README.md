@@ -23,6 +23,7 @@ Hello there!
 3. [Python Programs](https://github.com/muditmehta07/Python-Programs)
 5. [Flappy Bird](https://github.com/muditmehta07/Flappy-Bird)
 6. [Verified Discord Bot](https://github.com/muditmehta07/Michelle-Archived)
+7. [Discord Bots](https://github.com/muditmehta07/Discord-Bots)
 
 ## Open-Source Contributions
 1. [Universal Wayland Session Manager](https://github.com/Vladimir-csp/uwsm)
