@@ -1,5 +1,6 @@
 # About
 I use Arch btw!
+
 <img src="https://i.postimg.cc/HnRhfxsX/hypr.png" alt="hypr" width="100">
 
 ## Socials
