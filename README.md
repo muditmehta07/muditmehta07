@@ -1,6 +1,6 @@
 # About
 I use Arch btw!
-[](https://i.postimg.cc/65H3Gxbr/hypr.png)
+![alt text](https://i.postimg.cc/HnRhfxsX/hypr.png)
 
 ## Socials
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/muditmehta07)
