@@ -18,10 +18,12 @@ I use Arch btw!
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 
 ## Projects
-1. [Portfolio Website](https://mudits-portfolio.onrender.com/) -- 2024
-2. Software Installation Agent -- 2024
-3. [Verified Discord Bot](https://github.com/muditmehta07/Michelle-Archived) -- 2021
-4. [Flappy Bird](https://github.com/muditmehta07/Flappy-Bird) -- 2019
+1. University Major Project -- 2026
+2. University Minor Project -- 2025
+3. [Portfolio Website](https://mudits-portfolio.onrender.com/) -- 2024
+4. Software Installation Agent -- 2024
+5. [Verified Discord Bot](https://github.com/muditmehta07/Michelle-Archived) -- 2021
+6. [Flappy Bird](https://github.com/muditmehta07/Flappy-Bird) -- 2019
 
 ## Repositories
 1. [Leetcode Solutions](https://github.com/muditmehta07/Leetcode)
