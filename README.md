@@ -21,7 +21,7 @@ I use Arch btw!
 1. University Major Project
 2. University Minor Project
 3. [Portfolio Website](https://mudits-portfolio.onrender.com/)
-4. Inquisitor - RAG-Agent
+4. Inquisitor RAG-Agent
 5. [Michelle - Discord Bot](https://github.com/muditmehta07/Michelle-Archived)
 6. [Flappy Bird](https://github.com/muditmehta07/Flappy-Bird)
 
