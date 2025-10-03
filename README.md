@@ -17,13 +17,16 @@ I use Arch btw!
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 
+## Projects
+1. [Portfolio Website](https://mudits-portfolio.onrender.com/) -- 2024
+2. Software Installation Agent -- 2024
+3. [Verified Discord Bot](https://github.com/muditmehta07/Michelle-Archived) -- 2021
+4. [Flappy Bird](https://github.com/muditmehta07/Flappy-Bird) -- 2019
+
 ## Repositories
-1. [Portfolio Website](https://mudits-portfolio.onrender.com/)
-2. [Leetcode Solutions](https://github.com/muditmehta07/Leetcode)
-3. [Python Programs](https://github.com/muditmehta07/Python-Programs)
-5. [Flappy Bird](https://github.com/muditmehta07/Flappy-Bird)
-6. [Discord Bots](https://github.com/muditmehta07/Discord-Bots)
-7. [Verified Discord Bot](https://github.com/muditmehta07/Michelle-Archived)
+1. [Leetcode Solutions](https://github.com/muditmehta07/Leetcode)
+2. [Python Programs](https://github.com/muditmehta07/Python-Programs)
+3. [Discord Bots](https://github.com/muditmehta07/Discord-Bots)
 
 ## Open-Source Contributions
 1. [Universal Wayland Session Manager](https://github.com/Vladimir-csp/uwsm)
