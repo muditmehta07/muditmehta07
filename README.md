@@ -18,16 +18,16 @@ I (sometimes) use Arch btw!
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 
 ## Projects
-1. [Major Project](https://github.com/muditmehta07/Major-Project)
-2. [Portfolio Website - Severance](https://github.com/muditmehta07/Portfolio-Website)
-3. [Software Installation Agent](https://github.com/muditmehta07/Software-Installation-Agent)
-4. [Discord Bot - Michelle](https://github.com/muditmehta07/Michelle-Archived)
-5. [Flappy Bird](https://github.com/muditmehta07/Flappy-Bird)
+1. [Major Project](https://github.com/muditmehta07/major-project)
+2. [Portfolio Website - Severance](https://github.com/muditmehta07/portfolio-severance)
+3. [Software Installation Agent](https://github.com/muditmehta07/software-installation-agent)
+4. [Discord Bot - Michelle](https://github.com/muditmehta07/michelle-archived)
+5. [Flappy Bird](https://github.com/muditmehta07/flappy-bird)
 
 ## Repositories
-1. [Leetcode Solutions](https://github.com/muditmehta07/Leetcode)
-2. [Python Programs](https://github.com/muditmehta07/Python-Programs)
-3. [Discord Bots](https://github.com/muditmehta07/Discord-Bots)
+1. [Leetcode Solutions](https://github.com/muditmehta07/leetcode)
+2. [Python Programs](https://github.com/muditmehta07/python-programs)
+3. [Discord Bots](https://github.com/muditmehta07/discord-bots)
 
 ## Open-Source Contributions
 1. [Universal Wayland Session Manager](https://github.com/Vladimir-csp/uwsm)
