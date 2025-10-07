@@ -20,7 +20,7 @@ I (sometimes) use Arch btw!
 ## Projects
 1. [Major Project](https://github.com/muditmehta07/Major-Project)
 2. [Portfolio Website - Severance](https://github.com/muditmehta07/Portfolio-Website)
-3. [Software Installtion Agent](https://github.com/muditmehta07/Software-Installation-Agent)
+3. [Software Installation Agent](https://github.com/muditmehta07/Software-Installation-Agent)
 4. [Discord Bot - Michelle](https://github.com/muditmehta07/Michelle-Archived)
 5. [Flappy Bird](https://github.com/muditmehta07/Flappy-Bird)
 
