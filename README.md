@@ -18,12 +18,11 @@ I use Arch btw!
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 
 ## Projects
-1. [University Major Project](https://github.com/muditmehta07/Major-Project)
-2. [University Minor Project](https://github.com/muditmehta07/Major-Project)
-3. [Portfolio Website](https://mudits-portfolio.onrender.com/)
-4. Inquisitor - RAG Agent
-5. [Michelle - Discord Bot](https://github.com/muditmehta07/Michelle-Archived)
-6. [Flappy Bird](https://github.com/muditmehta07/Flappy-Bird)
+1. [Major Project](https://github.com/muditmehta07/Major-Project)
+2. [Portfolio Website](https://mudits-portfolio.onrender.com/)
+3. Software Installtion Agent - Wipro
+4. [Michelle - Discord Bot](https://github.com/muditmehta07/Michelle-Archived)
+5. [Flappy Bird](https://github.com/muditmehta07/Flappy-Bird)
 
 ## Repositories
 1. [Leetcode Solutions](https://github.com/muditmehta07/Leetcode)
