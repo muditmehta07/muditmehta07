@@ -19,7 +19,7 @@
 ## Projects
 1. [Major Project](https://github.com/muditmehta07/major-project)
 2. [Software Installation Agent](https://github.com/muditmehta07/software-installation-agent)
-3. [Verified Discord Bot](https://github.com/muditmehta07/michelle-archived)
+3. [Discord Bot](https://github.com/muditmehta07/michelle-archived)
 4. [Flappy Bird](https://github.com/muditmehta07/flappy-bird)
 
 ## Repositories
