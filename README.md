@@ -13,12 +13,14 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 
+## Portfolios
+1. [Portfolio Website - Severance](https://github.com/muditmehta07/portfolio-severance)
+
 ## Projects
 1. [Major Project](https://github.com/muditmehta07/major-project)
-2. [Portfolio Website - Severance](https://github.com/muditmehta07/portfolio-severance)
-3. [Software Installation Agent](https://github.com/muditmehta07/software-installation-agent)
-4. [Discord Bot - Michelle](https://github.com/muditmehta07/michelle-archived)
-5. [Flappy Bird](https://github.com/muditmehta07/flappy-bird)
+2. [Software Installation Agent](https://github.com/muditmehta07/software-installation-agent)
+3. [Verified Discord Bot](https://github.com/muditmehta07/michelle-archived)
+4. [Flappy Bird](https://github.com/muditmehta07/flappy-bird)
 
 ## Repositories
 1. [Leetcode Solutions](https://github.com/muditmehta07/leetcode)
