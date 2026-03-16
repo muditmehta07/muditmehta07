@@ -17,7 +17,7 @@
 1. [Frontend](https://github.com/muditmehta07/asas-frontend)
 
 ## Portfolios
-1. [Portfolio Website - Severance](https://github.com/muditmehta07/portfolio-severance)
+1. [Severance](https://github.com/muditmehta07/portfolio-severance)
 
 ## Mini Projects
 1. [Software Installation Agent](https://github.com/muditmehta07/software-installation-agent)
