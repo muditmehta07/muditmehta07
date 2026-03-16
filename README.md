@@ -13,7 +13,7 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 
-## Project - Autonomous Shopper Assist System
+## Project - Autonomous Shopper Assistance System
 1. [Project Repo](https://github.com/muditmehta07/asas)
 
 ## Portfolios
