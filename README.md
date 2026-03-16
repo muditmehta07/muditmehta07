@@ -14,7 +14,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 
 ## Project - Autonomous Shopper Assist System
-1. [ROS Package](https://github.com/muditmehta07/asas)
+1. [ROS2 Package](https://github.com/muditmehta07/asas)
 2. [Frontend](https://github.com/muditmehta07/asas-frontend)
 3. [Backend](https://github.com/muditmehta07/asas-backend)
 
