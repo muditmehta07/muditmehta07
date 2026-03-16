@@ -15,6 +15,7 @@
 
 ## Project - Autonomous Shopper Assist System
 1. [Frontend](https://github.com/muditmehta07/asas-frontend)
+2. [Backend](https://github.com/muditmehta07/asas-backend)
 
 ## Portfolios
 1. [Severance](https://github.com/muditmehta07/portfolio-severance)
