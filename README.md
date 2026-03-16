@@ -13,11 +13,11 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 
+## Project - Autonomous Shopper Assist System
+1. [Frontend](https://github.com/muditmehta07/asas-frontend)
+
 ## Portfolios
 1. [Portfolio Website - Severance](https://github.com/muditmehta07/portfolio-severance)
-
-## Autonomous Shopper Assist System
-1. [Frontend](https://github.com/muditmehta07/asas-frontend)
 
 ## Mini Projects
 1. [Software Installation Agent](https://github.com/muditmehta07/software-installation-agent)
