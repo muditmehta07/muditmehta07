@@ -16,11 +16,13 @@
 ## Portfolios
 1. [Portfolio Website - Severance](https://github.com/muditmehta07/portfolio-severance)
 
-## Projects
-1. [Major Project](https://github.com/muditmehta07/major-project)
-2. [Software Installation Agent](https://github.com/muditmehta07/software-installation-agent)
-3. [Discord Bot](https://github.com/muditmehta07/michelle-archived)
-4. [Flappy Bird](https://github.com/muditmehta07/flappy-bird)
+## Autonomous Shopper Assist System
+1. [Frontend](https://github.com/muditmehta07/asas-frontend)
+
+## Mini Projects
+1. [Software Installation Agent](https://github.com/muditmehta07/software-installation-agent)
+2. [Discord Bot](https://github.com/muditmehta07/michelle-archived)
+3. [Flappy Bird](https://github.com/muditmehta07/flappy-bird)
 
 ## Repositories
 1. [Leetcode Solutions](https://github.com/muditmehta07/leetcode)
