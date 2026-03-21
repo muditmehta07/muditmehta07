@@ -13,16 +13,14 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 
-## Project - Autonomous Shopper Assistance System
-1. [Project Repo](https://github.com/muditmehta07/asas)
-
-## Portfolios
-1. [Severance](https://github.com/muditmehta07/portfolio-severance)
+## Projects
+1. [Autonomous Shopper Assistance System](https://github.com/muditmehta07/asas)
 
 ## Mini Projects
 1. [Software Installation Agent](https://github.com/muditmehta07/software-installation-agent)
-2. [Discord Bot](https://github.com/muditmehta07/michelle-archived)
-3. [Flappy Bird](https://github.com/muditmehta07/flappy-bird)
+2. [Severance Themed Portfolio](https://github.com/muditmehta07/portfolio-severance)
+3. [Discord Bot](https://github.com/muditmehta07/michelle-archived)
+4. [Flappy Bird](https://github.com/muditmehta07/flappy-bird)
 
 ## Repositories
 1. [Leetcode Solutions](https://github.com/muditmehta07/leetcode)
