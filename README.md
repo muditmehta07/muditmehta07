@@ -1,5 +1,6 @@
+[Click me to view the portfolio website](https://muditmehta07.github.io/portfolio/)
+
 ## Socials
-[![Portfolio]](https://muditmehta07.github.io/portfolio/)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/muditmehta07)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muditmehta07)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/user/vo1g5gy0xd2n4pkww3p7n4abm)
