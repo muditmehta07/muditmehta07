@@ -1,4 +1,4 @@
-[Click me to view the portfolio website](https://muditmehta07.github.io/portfolio/)
+[Click me to view my portfolio](https://muditmehta07.github.io/portfolio/)
 
 ## Socials
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/muditmehta07)
