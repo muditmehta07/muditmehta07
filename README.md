@@ -20,7 +20,7 @@
 2. [Software Installation Agent](https://github.com/muditmehta07/software-installation-agent)
 
 ## Mini Projects
-1. [RunPika - Gnome Shell Extension](https://extensions.gnome.org/extension/9833/runpika/)
+1. [RunPika - Gnome Shell Extension](https://github.com/muditmehta07/runpika)
 2. [Severance Themed Portfolio](https://github.com/muditmehta07/portfolio-severance)
 3. [Discord Bot](https://github.com/muditmehta07/michelle-archived)
 4. [Flappy Bird](https://github.com/muditmehta07/flappy-bird)
