@@ -21,9 +21,9 @@
 
 ## Mini Projects
 1. [RunPika - Gnome Shell Extension](https://github.com/muditmehta07/runpika)
-2. [Severance Themed Portfolio](https://github.com/muditmehta07/portfolio-severance)
-3. [Discord Bot](https://github.com/muditmehta07/michelle-archived)
-4. [Flappy Bird](https://github.com/muditmehta07/flappy-bird)
+2. [Lumon - Severance Themed Portfolio](https://github.com/muditmehta07/portfolio-severance)
+3. [Michelle - Discord Bot](https://github.com/muditmehta07/michelle-archived)
+4. [Flappy Bird - Pygame](https://github.com/muditmehta07/flappy-bird)
 
 ## Repositories
 1. [Python Programs](https://github.com/muditmehta07/python-programs)
