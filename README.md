@@ -18,15 +18,7 @@
 ## Projects
 1. [Autonomous Shopper Assistance System](https://github.com/muditmehta07/asas)
 2. [Software Installation Agent](https://github.com/muditmehta07/software-installation-agent)
-
-## Mini Projects
-1. [RunPika](https://github.com/muditmehta07/runpika)
-2. [Michelle](https://github.com/muditmehta07/michelle-archived)
-3. [Flappy Bird](https://github.com/muditmehta07/flappy-bird)
-
-## Repositories
-1. [Python Programs](https://github.com/muditmehta07/python-programs)
-2. [Discord Bots](https://github.com/muditmehta07/discord-bots)
+3. [RunPika](https://github.com/muditmehta07/runpika)
 
 ## Open-Source Contributions
 1. [Universal Wayland Session Manager](https://github.com/Vladimir-csp/uwsm)
