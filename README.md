@@ -2,7 +2,6 @@
 [Click me to view my portfolio](https://muditmehta07.github.io/portfolio/)
 
 ## Skills
-###### Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=fff)](#)
 [![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff)](#)
