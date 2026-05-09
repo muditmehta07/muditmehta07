@@ -17,7 +17,6 @@
 ## Projects
 1. [Autonomous Shopper Assistance System](https://github.com/muditmehta07/asas)
 2. [Software Installation Agent](https://github.com/muditmehta07/software-installation-agent)
-3. [RunPika](https://github.com/muditmehta07/runpika)
-
+   
 ## Open-Source Contributions
 1. [Universal Wayland Session Manager](https://github.com/Vladimir-csp/uwsm)
