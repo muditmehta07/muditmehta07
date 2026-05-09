@@ -14,7 +14,6 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Podman](https://img.shields.io/badge/Podman-%2339457E?logo=podman&logoColor=fff)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=fff)](#)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff)](#)
 
 ## Projects
 1. [Autonomous Shopper Assistance System](https://github.com/muditmehta07/asas)
