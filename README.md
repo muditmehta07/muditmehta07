@@ -6,7 +6,6 @@
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=fff)](#)
 [![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff)](#)
 [![Perl](https://img.shields.io/badge/Perl-%2339457E.svg?logo=perl&logoColor=fff)](#)
-
 [![ROS](https://img.shields.io/badge/ROS-%230A0FF9.svg?logo=ros&logoColor=fff)](#)
 [![LangChain](https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=fff)](#)
 [![Ollama](https://img.shields.io/badge/Ollama-%23000000.svg?logo=ollama&logoColor=fff)](#)
@@ -14,7 +13,6 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff)](#)
 [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
 [![Pydantic](https://img.shields.io/badge/Pydantic-%23E92063.svg?logo=pydantic&logoColor=fff)](#)
-
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Podman](https://img.shields.io/badge/Podman-%2339457E?logo=podman&logoColor=fff)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=fff)](#)
