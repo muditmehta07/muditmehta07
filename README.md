@@ -6,7 +6,6 @@
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=fff)](#)
 [![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff)](#)
 [![LangChain](https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=fff)](#)
-[![Ollama](https://img.shields.io/badge/Ollama-fff.svg?logo=ollama&logoColor=000)](#)
 [![Tensorflow](https://img.shields.io/badge/TensorFlow-ee4c2c?logo=tensorflow&logoColor=fff)](#)
 [![ROS](https://img.shields.io/badge/ROS-%2339457E.svg?logo=ros&logoColor=fff)](#)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff)](#)
