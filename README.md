@@ -15,7 +15,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=fff)](#)
 
 ## Projects
-1. [Autonomous Shopper Assistance System](https://github.com/muditmehta07/asas)
+1. [ShopAssist](https://github.com/muditmehta07/ShopAssist)
 2. [Software Installation Agent](https://github.com/muditmehta07/software-installation-agent)
    
 ## Open-Source Contributions
