@@ -20,3 +20,4 @@
    
 ## Open-Source Contributions
 1. [Universal Wayland Session Manager](https://github.com/Vladimir-csp/uwsm)
+2. [Alpaca](https://github.com/Jeffser/Alpaca)
