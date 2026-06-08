@@ -1,6 +1,4 @@
 
-[Click me to view my portfolio](https://muditmehta07.github.io/portfolio/)
-
 ## Skills
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=fff)](#)
